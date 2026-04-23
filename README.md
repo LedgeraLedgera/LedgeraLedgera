@@ -23,8 +23,8 @@ Our work is centered on maintaining network stability, ensuring validator integr
 Our areas of focus include:
 - validator node operations and lifecycle management  
 - monitoring and incident response systems  
-- инфраструктура с контролируемыми рисками  
-- долгосрочное участие в сетях  
+- infrastructure with controlled risks  
+- long-term participation in networks  
 
 ---
 
