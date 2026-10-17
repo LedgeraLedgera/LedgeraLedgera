@@ -30,6 +30,8 @@ LEDGERA runs validators across several ecosystems: Cosmos SDK chains, Ethereum a
 
 The tooling we use to run our own nodes is published openly. **[node-scripts](https://github.com/LedgeraLedgera/node-scripts)** holds our one-command installers: verified release binaries, state sync, systemd and tools for status checks and upgrades. We write and maintain these scripts for the networks we support, and add each new network as we join it.
 
+You can delegate to LEDGERA through our website: **[proledgera.com/app](https://proledgera.com/app)**. To learn more about the team and our infrastructure, visit **[proledgera.com](https://proledgera.com)**.
+
 ---
 
 ## Delegator Transparency
