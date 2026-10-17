@@ -26,17 +26,9 @@ In 2025 we expanded to Celestia, Starknet, Dymension, Lava and Nibiru. Moving fr
 
 ## Networks
 
-Selective participation in high-integrity ecosystems. We only validate what we believe in.
+LEDGERA runs validators across several ecosystems: Cosmos SDK chains, Ethereum and Starknet. We are selective about where we participate, and we only validate networks we believe in.
 
-| Network | Validator |
-|---|---|
-| **Nibiru** | [explorers.guru](https://nibiru.explorers.guru/validator/nibivaloper1f8vyle3res9aftqetqx2t0aednkh8aqk7ewxe8) |
-| **Dymension** | [explorers.guru](https://dymension.explorers.guru/validator/dymvaloper1tp2gm9pqxs3rf2h2mqu6xtw845089hpxxuaz9a) |
-| **Lava** | [lavacenter](https://lavacenter.xyz/lava/staking/lava@valoper14hqah6ut6kycmzsnywzljeamw3pmdkxr0pewgq) |
-| **Starknet** | [voyager](https://voyager.online/staking?validator=0x018667cf65f43fd9d39d43827086bf9d3de427ea045dcb0363bced5efbb2c2c3) |
-| **Ethereum** | [beaconcha.in](https://beaconcha.in/validator/99039) |
-
-Heritage: **Polkadot** and **Kusama** (Web3 Foundation 1KV / Decentralized Nodes programme).
+The tooling we use to run our own nodes is published openly. **[node-scripts](https://github.com/LedgeraLedgera/node-scripts)** holds our one-command installers: verified release binaries, state sync, systemd and tools for status checks and upgrades. We write and maintain these scripts for the networks we support, and add each new network as we join it.
 
 ---
 
